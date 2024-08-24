@@ -1,0 +1,21 @@
+[submodule "the_snake"]
+	path = the_snake
+	url = https://github.com/sxdisbr/the_snake
+[submodule "django_sprint1"]
+	path = django_sprint1
+	url = https://github.com/sxdisbr/django_sprint1
+[submodule "django_sprint3"]
+	path = django_sprint3
+	url = https://github.com/sxdisbr/django_sprint3
+[submodule "django_sprint4"]
+	path = django_sprint4
+	url = https://github.com/sxdisbr/django_sprint4
+[submodule "django_testing"]
+	path = django_testing
+	url = https://github.com/sxdisbr/django_testing
+[submodule "homework_bot"]
+	path = homework_bot
+	url = https://github.com/sxdisbr/homework_bot
+[submodule "api_yatube"]
+	path = api_yatube
+	url = https://github.com/sxdisbr/api_yatube
